@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Jordan%20Beni&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI%20Developer%20%7C%20RAG%20Systems%20%7C%20FastAPI&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Jordan%20MD&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI%20Developer%20%7C%20RAG%20Systems%20%7C%20FastAPI&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <!-- TYPING ANIMATION -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+production-grade+AI+systems.;RAG+%7C+FastAPI+%7C+pgvector+%7C+Groq;From+Yaound%C3%A9+%F0%9F%87%A8%F0%9F%87%B2+—+shipping+globally.;Open+for+freelance+%7C+Fiverr+%2F+Upwork)](https://git.io/typing-svg)
